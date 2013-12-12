@@ -3,7 +3,8 @@ patterns.js
 
 Javascript Patterns with examples
 
-##patterns covered:
+patterns covered:
+----------------
     - module pattern
     - prototypal pattern
     - singleton pattern

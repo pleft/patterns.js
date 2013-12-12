@@ -1,5 +1,3 @@
-var util = require('util');
-
 //revealing module pattern with facade pattern together
 var FacadeModule = (function() {
 
