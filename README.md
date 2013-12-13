@@ -4,6 +4,8 @@ Javascript Patterns with examples
 
 ##patterns covered:
 
+    - constructor pattern
+    - decorator pattern
     - module pattern
     - prototypal pattern
     - singleton pattern
