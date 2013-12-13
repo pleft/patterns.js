@@ -12,7 +12,7 @@ Javascript Patterns with examples
     - factory pattern
     - facade pattern
     - observer pattern
-    - surrogate pattern (not sure if it is *pattern*
+    - surrogate pattern (not sure if it is *pattern*)
     
     
 ###sources:
