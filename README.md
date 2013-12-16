@@ -19,5 +19,5 @@ Javascript Patterns with examples
 * [http://carldanley.com/javascript-design-patterns/](http://carldanley.com/javascript-design-patterns/)
 * [http://addyosmani.com/resources/essentialjsdesignpatterns/book/](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 
-###userful links:
+###useful links:
 * [https://bitbucket.org/mvardakis/javascript-stuff/](https://bitbucket.org/mvardakis/javascript-stuff/), An interesting repo, check the inheritance example.
